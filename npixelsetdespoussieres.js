@@ -1,7 +1,7 @@
 /*
 n pixels et des poussières
 Yann Bellot (2013-2020)
-This program uses the P5.js library : https://cdn.jsdelivr.net/npm/p5@1.3.1/lib/p5.js
+This program is dependent on p5.js for function : https://cdn.jsdelivr.net/npm/p5@1.3.1/lib/p5.js
 */
 
 let nMaxPxPoussiere = 8;
